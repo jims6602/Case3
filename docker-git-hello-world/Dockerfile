@@ -3,7 +3,7 @@
 FROM ubuntu:16.04
 
 #Author of the Docker File
-LABEL "Maintainer"="JohnCusey"
+LABEL "Maintainer"="Smith"
 
 # RUN COMMAND BASICALLY runs the command in the terminal and creates an image.
 # Install all the updates for UBUNTU
